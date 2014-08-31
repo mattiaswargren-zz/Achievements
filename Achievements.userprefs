@@ -1,0 +1,13 @@
+﻿<Properties>
+  <AuthorInfo Name="Mattias Wargren" Email="mattias.wargren[at]gmail.com" Copyright="Mattias Wargren" Company="" Trademark="" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="achievements.tests/TestBasics.cs">
+    <Files>
+      <File FileName="achievements.tests/TestBasics.cs" Line="5" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
